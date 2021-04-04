@@ -1,2 +1,1 @@
-# Todo-List-Shubham-
-My Todo List
+I have made this todo_list using ejs, express and mongodb.
